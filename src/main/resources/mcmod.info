@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "gtnhfastbreak",
+    "name": "GTNH Fast Break",
+    "description": "Removes the client-side delay between breaking blocks.",
+    "version": "1.0.0",
+    "mcversion": "1.7.10",
+    "authorList": ["lfester"]
+  }
+]
